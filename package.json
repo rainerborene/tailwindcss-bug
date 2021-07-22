@@ -1,0 +1,16 @@
+{
+  "name": "tailbug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "postcss-import": "^14.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^2.2.6"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}

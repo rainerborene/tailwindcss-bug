@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+@import "animate.css/source/_vars";
+@import "animate.css/source/_base";
+@import "animate.css/source/fading_entrances/fadeIn";
+@import "animate.css/source/fading_entrances/fadeInDown";
+@import "animate.css/source/fading_exits/fadeOut";
+@import "animate.css/source/fading_exits/fadeOutUp";
+
+@import "tailwindcss/utilities";
